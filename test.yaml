@@ -1,3 +1,5 @@
 name: Test
 id: test
-steps: []
+steps: 
+  - name: first
+  - name: fourth
