@@ -3,3 +3,4 @@ id: test
 steps: 
   - name: first
   - name: second
+  - name: third
