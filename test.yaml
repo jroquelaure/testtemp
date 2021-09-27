@@ -2,5 +2,4 @@ name: Test
 id: test
 steps: 
   - name: first
-  - name: second
-  - name: third
+  - name: fourth
